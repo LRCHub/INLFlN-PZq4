@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Weekend",
+  "base_artist": "태연 (TAEYEON)",
+  "createdAt": "2025-12-17T14:36:54.144149Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hymn for the Weekend",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/01_Hymn_for_the_Weekend_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Weekend",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/02_The_Weekend_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Weekend",
+      "artist": "Steve Wariner",
+      "has_synced": true,
+      "path": "select/03_The_Weekend_Steve_Wariner.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Weekend (Album Version)",
+      "artist": "Steve Wariner",
+      "has_synced": true,
+      "path": "select/04_The_Weekend_(Album_Version)_Steve_Wariner.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Weekend",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/05_Weekend_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Frikadelle Am Ohr (Weekend Blues)",
+      "artist": "Fettes Brot",
+      "has_synced": false,
+      "path": "select/06_Frikadelle_Am_Ohr_(Weekend_Blues)_Fettes_Brot.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Frikadelle am Ohr (Weekend Blu",
+      "artist": "Fettes Brot",
+      "has_synced": false,
+      "path": "select/07_Frikadelle_am_Ohr_(Weekend_Blu_Fettes_Brot.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Weekend",
+      "artist": "Kelis feat. will.i.am",
+      "has_synced": true,
+      "path": "select/08_Weekend_Kelis_feat._will.i.am.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Weekend [Ft. Will.I.Am]",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/09_Weekend_[Ft._Will.I.Am]_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Push / Lost Weekend",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/10_Push___Lost_Weekend_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Big Weekend",
+      "artist": "Lemonade",
+      "has_synced": false,
+      "path": "select/11_Big_Weekend_Lemonade.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Weekend Without Makeup",
+      "artist": "The Long Blondes",
+      "has_synced": false,
+      "path": "select/12_Weekend_Without_Makeup_The_Long_Blondes.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Goodbye Weekend",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/13_Goodbye_Weekend_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Weekend (Extended Vocal Mix)",
+      "artist": "Michael Gray",
+      "has_synced": true,
+      "path": "select/14_The_Weekend_(Extended_Vocal_Mix)_Michael_Gray.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Weekend (Nic Fanciulli Vocal Mix)",
+      "artist": "Michael Gray",
+      "has_synced": false,
+      "path": "select/15_The_Weekend_(Nic_Fanciulli_Vocal_Mix)_Michael_Gray.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Weekend (Original 12 Mix)",
+      "artist": "Michael Gray",
+      "has_synced": false,
+      "path": "select/16_The_Weekend_(Original_12_Mix)_Michael_Gray.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Weekend",
+      "artist": "テヨン",
+      "has_synced": false,
+      "path": "select/pl_01_Weekend_テヨン.txt"
+    }
+  ]
+}
